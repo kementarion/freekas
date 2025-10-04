@@ -22,7 +22,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/logo/Kaspa-Icon-Dark-Green-on-White.svg',
 
-    colorMode: 'auto',
+    colorMode: 'light',
 
 
     contributors: false,

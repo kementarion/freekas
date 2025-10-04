@@ -53,7 +53,7 @@ heroText: "欢迎访问"
 
 于是，就有了这个网站 [https://freekas.com](https://freekas.com)
 
-在总结学习的同时，也希望能给访问这个网站的朋友带来帮助。
+希望在自己学习的同时，也能给新手小白带来一点帮助
 
 如果有错误的地方，敬请批评指正。
 
@@ -62,10 +62,15 @@ heroText: "欢迎访问"
 在这里可以找到我：[https://x.com/mvkscin](https://x.com/mvkscin)
 
 本站文档及源代码：[https://github.com/kementarion/freekas](https://github.com/kementarion/freekas)
+
 <br />
+
 <br />
+
 <br />
+
 <br />
+
 </div>
 
 

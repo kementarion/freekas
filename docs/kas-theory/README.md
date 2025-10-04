@@ -124,7 +124,11 @@ GHOSTDAG 是 PHANTOM 的实用化、高效化版本，也是 **Kaspa 主网在 2
 
 ## 第四阶段：DAGKNIGHT - 面向未来的演进 (2022)
 
+::: tip
+
 DAGKNIGHT 是比 GHOSTDAG 更进一步的协议，旨在解决 GHOSTDAG 的一个关键限制：**固定的参数 `k`**。
+
+:::
 
 - **论文标题**: *《DAGKNIGHT: A Parameterless Generalization of Nakamoto Consensus》*
 
