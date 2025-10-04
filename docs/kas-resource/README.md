@@ -46,11 +46,12 @@
 - [https://discord.gg/kaspa](https://discord.gg/kaspa)
 
 
+
 ## 其他
 
 - [https://kasmedia.com/](https://kasmedia.com/)
     
-  * 每周一篇文章，总结 Kaspa 相关的新闻
+  * 每周一篇文章，总结本周 Kaspa 相关的新闻
 
 - [https://kasbay.org/](https://kasbay.org/)
   
@@ -65,7 +66,18 @@
   * Kaspa 知识
 
 
+## 一些有趣的收集
 
+- YouTube 上 Kaspa 与其他币的转账速度对比（XRP，SOLANA，SUI）以及（ETH，AVAX，ADA）
+
+  * [https://www.youtube.com/watch?v=NSIsq0RHGDc](https://www.youtube.com/watch?v=NSIsq0RHGDc)
+
+  * [https://www.youtube.com/watch?v=gMJ5F6-SAZg](https://www.youtube.com/watch?v=gMJ5F6-SAZg)
+
+
+- 在真实商店使用 Kaspa 支付
+
+  * [https://www.youtube.com/shorts/GW7oLmo3Wjc](https://www.youtube.com/shorts/GW7oLmo3Wjc)
 
 
 

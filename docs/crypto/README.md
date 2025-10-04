@@ -186,23 +186,25 @@
 
 - [https://x.com/DU09BTC/status/1925597021454372950](https://x.com/DU09BTC/status/1925597021454372950)
 
+![alt text](/kas/sui-froze-tx.png)
+
 ::: warning 思考
 
 如果你的币在技术上可以被人冻结，那么去中心化的意义还有什么？
+
+:::
 
 - 更多讨论：
 
   * [https://x.com/0x_Todd/status/1974032088501547445](https://x.com/0x_Todd/status/1974032088501547445)
 
-:::
 
 
-![alt text](/kas/sui-froze-tx.png)
 
 
 ### (3). Michael Sutton 的观点
 
-- Michael Sutton 发表了关于 PoS 与 PoW 的观点：
+- Michael Sutton 在 2025 年 10 月发表了关于 PoS 与 PoW 的观点：
 
     * [https://x.com/michaelsuttonil/status/1973887808776675365](https://x.com/michaelsuttonil/status/1973887808776675365)
 

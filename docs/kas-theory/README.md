@@ -116,9 +116,17 @@ GHOSTDAG 是 PHANTOM 的实用化、高效化版本，也是 **Kaspa 主网在 2
 
     - **结果**: GHOSTDAG 使得实时处理 DAG 和每秒出块成为可能，为 Kaspa 的主网上线扫清了工程障碍。
 
-**简单总结 PHANTOM 与 GHOSTDAG 关系**： PHANTOM 是“完美但稍慢的解决方案”，它证明了 BlockDAG 共识的可行性；GHOSTDAG 是“足够好且极快的解决方案”，它让 BlockDAG 共识变得实用。Kaspa 选择了 GHOSTDAG。
+::: info 总结
 
+**简单总结 PHANTOM 与 GHOSTDAG 关系**： 
 
+- PHANTOM 是“完美但稍慢的解决方案”，它证明了 BlockDAG 共识的可行性；
+
+- GHOSTDAG 是“足够好且极快的解决方案”，它让 BlockDAG 共识变得实用。
+
+- Kaspa 选择了 GHOSTDAG。
+
+:::
 
 ---
 
@@ -146,22 +154,22 @@ DAGKNIGHT 是比 GHOSTDAG 更进一步的协议，旨在解决 GHOSTDAG 的一�
     - **DAGKNIGHT 的解决方案**: DAGKNIGHT 协议是 **“无参数”** 的。它不预先设定 `k`，而是**动态地、事后**地观察整个 DAG 的拓扑结构，来自动确定什么样的区块集合可以被安全地确认为“诚实”的。
     - **“先确认，后排序”**: DAGKNIGHT 引入了一个新的安全原语。它首先快速地对区块进行“安全确认”，然后再进行全局排序。这意味着交易的确认时间可以大大缩短，甚至可以实现“亚秒级”的确认。
 
-::: info 注：
+::: info 相关信息
 
 - DAGKNIGHT 白皮书的发布时间是2022年**10月31日**，与比特币的白皮书发布时间(2008年**10月31日**)是同一天。
 
 - 其他 Kaspa 相关的论文：[https://kaspa.org/publications/](https://kaspa.org/publications/)
 
-- 2025年9月 - 状态更新：
+- 2025 年 9 月 状态更新：
   
-  * DAGKNIGHT 正在开发中，根据 Michael Sutton 的介绍，预计会跟 vProgs 一起打包发布。
+  * DAGKNIGHT 的相关代码正在开发中，根据 Michael Sutton 的介绍，预计会跟 vProgs 一起打包发布。
 
 :::
 
 ---
 
 
-## 核心团队
+## 核心人员
 
 - **Yonatan Sompolinsky**： 创始人，首席科学家。理论奠基人。
 
@@ -193,7 +201,7 @@ DAGKNIGHT 是比 GHOSTDAG 更进一步的协议，旨在解决 GHOSTDAG 的一�
 
     * [https://x.com/eliottmea](https://x.com/eliottmea)
 
-
+    * 还有很多……
 
 
 ## Yonatan 的一些趣事
