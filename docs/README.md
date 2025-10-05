@@ -29,10 +29,13 @@ heroText: "Kaspa：比特币的真正继承者"
 
 - 2025 年 9 月底，主网压力测试实现 24 小时内处理超 60M（6千万）笔交易，TPS 在几百到几千之间，系统运行稳定流畅。
 
+::: info Solana 性能
+
   * Solana 的性能最高新纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
 
-  * Solana 的相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
+  * 相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
 
+:::
 
 - **Kaspa 破解了"区块链三难问题"：**
 
@@ -71,10 +74,13 @@ heroText: "Kaspa：比特币的真正继承者"
 
 ### **7. 总结**
 
+::: tip 继往开来
+
 - Kaspa 融合了**比特币的安全共识**、**以太坊的智能合约**以及 **Solana 的高吞吐量**，通过基于 DAG 的 PoW 协议，实现了区块链**可扩展性**的突破。
 
 - 项目坚持**完全​​去中心化​**​与​**​社区驱动**​​，秉承**公平启动**原则，**无预挖、无预留、无 VC 主导**，奠定了广泛参与和网络安全的坚实基础。
 
+:::
 
 
 <br />
