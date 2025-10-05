@@ -7,7 +7,7 @@ export default defineUserConfig({
   
   base: "/",
 
-  title: 'Kaspa 笔记',
+  title: 'Kaspa 百科文档',
   description: ' ',
 
   head: [
@@ -67,6 +67,10 @@ export default defineUserConfig({
       {
         text: '以太坊简介',
         link: '/eth/'
+      },
+      {
+        text: '关于',
+        link: '/about/'
       }
     ],
 

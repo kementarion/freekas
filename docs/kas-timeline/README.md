@@ -107,6 +107,13 @@
 
 ## 2022 年
 
+### 2022-05-24 首次上线交易所 (TXBIT)
+
+- Kaspa 第一次上线交易所。上线到 TXBIT 交易。
+
+- 遗憾的是，TXBIT 一年后倒闭了：[https://www.blocktempo.com/txbit-is-closing-down-in-sep-2023/](https://www.blocktempo.com/txbit-is-closing-down-in-sep-2023/)
+
+
 ### 2022-09-16 上线 MEXC
 
 - [https://www.mexc.com/exchange/KAS_USDT](https://www.mexc.com/exchange/KAS_USDT)
