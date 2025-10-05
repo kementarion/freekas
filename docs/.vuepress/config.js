@@ -7,7 +7,7 @@ export default defineUserConfig({
   
   base: "/",
 
-  title: 'Kaspa 百科文档',
+  title: 'Kaspa 知识库',
   description: ' ',
 
   head: [

@@ -1,4 +1,4 @@
-# Kaspa 笔记
+# Kaspa 知识库
 
 ## 打包
 
@@ -13,7 +13,7 @@ npm run docs:build
 - 部署在：[https://freekas.com/](https://freekas.com/)
 
 
-## 其他
+## 基于
 
 - 基于 VuePress [https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
 
