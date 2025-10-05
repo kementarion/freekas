@@ -29,7 +29,7 @@ export default defineUserConfig({
 
     sidebarDepth: 4,
 
-    lastUpdated: false,
+    lastUpdated: true,
 
     navbar: [
       {
