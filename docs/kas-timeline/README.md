@@ -20,7 +20,7 @@
 
 ### 2021-11-07 第一个区块被挖出
 
-::: info 第一个区块：
+::: info 第一个被挖出的区块：
 - [https://explorer.kaspa.org/blocks/d884013dc7b892b793f1f261432fa7de504be574d4f327b1a7a9379a630b96b3](https://explorer.kaspa.org/blocks/d884013dc7b892b793f1f261432fa7de504be574d4f327b1a7a9379a630b96b3)
 :::
 
@@ -31,9 +31,12 @@
 
   * 创世区块是被硬编码在代码中的
 
+  * 创世区块：[https://explorer.kaspa.org/blocks/caeb97960a160c211a6b2196bd78399fd4c4cc5b509f55c12c8a7d815f7536ea](https://explorer.kaspa.org/blocks/caeb97960a160c211a6b2196bd78399fd4c4cc5b509f55c12c8a7d815f7536ea)
+
   * [https://x.com/michaelsuttonil/status/1641180775662907393](https://x.com/michaelsuttonil/status/1641180775662907393)
 
   * [https://x.com/DagKnight24/status/1685787679483465728](https://x.com/DagKnight24/status/1685787679483465728)
+
 
 
 ::: info Kaspa 的创世区块所包含的内容：
@@ -322,6 +325,22 @@ vProg协议旨在构建一个“主权网络效应”体系：每个应用都是
 - 这是 Kaspa 第一个 L2 的智能合约。
 
 - 可以在这里查看、访问 L2 智能合约：[https://kas.fyi/l2-networks](https://kas.fyi/l2-networks)
+
+
+### 2025-10-05 主网压力测试
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
