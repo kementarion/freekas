@@ -27,13 +27,18 @@ heroText: "Kaspa：比特币的真正继承者"
 
   * 未来 **DagKnight** 协议将支持每秒几十到上百个区块。
 
-- 2025 年 9 月底，主网压力测试实现 24 小时内处理超 6000 万笔交易，系统运行稳定，性能超越屡次宕机的 Solana。
+- 2025 年 9 月底，主网压力测试实现 24 小时内处理超 60M（6千万）笔交易，TPS 在几百到几千之间，系统运行稳定流畅。
+
+  * Solana 的性能最高新纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
+
+  * Solana 的相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
+
 
 - **Kaspa 破解了"区块链三难问题"：**
 
   * **基于 PoW**，继承并强化了比特币的**去中心化**与**安全性**。
 
-  * **基于 DAG 协议**，实现了超越 Solana 的**可扩展性**。
+  * **基于 DAG 协议**，实现了性能与 Solana 一致的**可扩展性**。
 
   * 深入分析：[Kaspa 解决了区块链三难问题](/the-blockchain-trilemma/#四、kaspa-解决了区块链三难问题)
 

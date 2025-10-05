@@ -106,9 +106,9 @@
 <img :src="$withBase('/kas/kas-trx-60m.jpeg')" />
 
 
-### (2) Solana 在日交易量达到千万级时宕机
+### (2) Solana 在日交易量几千万级时宕机
 
-Solana 宕机已经不止一次了。这次是因为特朗普发了个币，就宕机了……
+Solana 宕机已经不止一次了。这次是因为特朗普发了个币，就又宕机了……
 
 <img :src="$withBase('/kas/solana-down.jpeg')" />
 
