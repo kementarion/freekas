@@ -1,8 +1,10 @@
 ---
 home: true
 heroText: "Kaspa：比特币的真正继承者"
-redirectTo: /zh/
 ---
+
+<img :src="$withBase('/kas/kaspa-dag-image.png')" />
+
 
 ### **1. 传统 PoW 公链存在着显著的性能瓶颈**
 
@@ -19,7 +21,7 @@ redirectTo: /zh/
 
 ::: tip 提示
 
-这些主流的加密货币，**技术上都存在着明显的缺陷**。Kaspa 的出现，将会改变这一现状。
+这些主流的加密货币，**技术上都存在着明显的缺陷**。Kaspa 的出现，将会**大幅改善**这一现状。
 
 :::
 

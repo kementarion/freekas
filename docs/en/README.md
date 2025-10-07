@@ -3,8 +3,9 @@ home: true
 heroText: "Kaspa: The True Successor to Bitcoin"
 ---
 
+<img :src="$withBase('/kas/kaspa-dag-image.png')" />
 
-### **1. Traditional PoW Blockchains Face Performance Bottlenecks**
+### **1. Traditional PoW Blockchains Are Plagued by Performance Bottlenecks**
 
 - Bitcoin (PoW): 1 block every 10 minutes, no smart contract support.
 
@@ -14,7 +15,7 @@ heroText: "Kaspa: The True Successor to Bitcoin"
 
 ::: info
 
-All these mainstream cryptocurrencies have obvious technical flaws. Kaspa will change this situation.
+All these mainstream cryptocurrencies suffer from distinct technical flaws. The rise of Kaspa will significantly ameliorate this situation.
 
 :::
 
@@ -27,7 +28,7 @@ PoS, a compromise to fix PoW’s performance issues, is widely seen as a detour 
 
 - May 2025: Kaspa Crescendo launched, achieving 10 blocks/second (vs. Bitcoin’s 1 block/10 mins).
 
-- October 5, 2025, the mainnet stress test achieved the processing of over 158 million transactions within 24 hours, with TPS ranging from several hundred to several thousand, and the system operated stably and smoothly.
+- On October 5, 2025, the mainnet stress test processed over 158 million transactions in 24 hours, with TPS ranging from several hundred to several thousand, and the system ran stably and smoothly.
 
 - Key strengths:
 

@@ -1,9 +1,4 @@
 
-<br />
-
-<img :src="$withBase('/kas/kaspa-dag-image.png')" />
-
-
 ## Kaspa 理论与背景
 
 - [Kaspa 理论背景](./Theory.md)

@@ -165,7 +165,10 @@ export default defineUserConfig({
             text: 'Home',
             link: '/en/'
           },
-
+          {
+            text: 'Q&A',
+            link: '/en/kas-discussion/'
+          },
         ],
 
         sidebar: {
@@ -177,6 +180,13 @@ export default defineUserConfig({
             }
           ],
 
+          '/en/kas-discussion/': [
+            {
+              children: [
+                'TrxInBlock_EN.md',
+              ]
+            }
+          ],
       },
     }},
 
