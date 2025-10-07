@@ -2,7 +2,9 @@
 
 ## 打包
 
-```
+```sh 
+# npm install vuepress-plugin-auto-sidebar -D
+
 npm install
 npm run docs:dev
 npm run docs:build

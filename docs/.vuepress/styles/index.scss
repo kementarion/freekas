@@ -67,6 +67,17 @@ body {
   text-shadow: 0px 0px 0px rgba(4, 77, 95, 0.1); 
 }
 
+.route-link-active {
+  color: #288074 !important;
+  border-bottom: 2px solid rgb(13, 113, 112); /* 语法：粗细 样式 颜色 */
+  padding-bottom: 1px; /* 在文字和线之间添加空隙 */
+  font-weight: 800;
+}
+
+.vp-sidebar-item {
+  border-bottom: 0px solid rgb(13, 113, 112); /* 语法：粗细 样式 颜色 */
+  padding-bottom: 1px; /* 在文字和线之间添加空隙 */
+}
 
 
 
