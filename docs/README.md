@@ -10,7 +10,9 @@ redirectTo: /zh/
 
 - 以太坊开启了智能合约的新时代，但**因为 PoW 的性能瓶颈最终转向了 PoS**。
 
-- Solana 为追求高吞吐量牺牲了去中心化（采用 PoS + PoH 机制）。而且系统稳定性不足，曾多次发生宕机。
+  * 即使转向了 PoS，以太坊的速度依然慢（十几秒到几分钟），而且交易手续费贵。
+
+- Solana 为追求高吞吐量牺牲了去中心化（采用 PoS + PoH 机制）。而且系统稳定性不足，曾发生多次宕机。
 
   * 详情参阅：[Solana 在 Trump 发币后宕机](/crypto/The-BlockChain-Trilemma.html#_2-solana-在日交易量几千万级时宕机)
 
@@ -31,7 +33,7 @@ redirectTo: /zh/
 
 ### **3. Kaspa 突破了 PoW 性能瓶颈，破解了区块链"不可能三角"**
 
-- 2025 年 5 月 Kaspa Crescendo 版本上线，实现了**每秒 10 个区块**的出块速度（而比特币是每 10 分钟 1 个区块）。
+- 2025 年 5 月 Kaspa Crescendo 版本上线，实现了**每秒 10 个区块**的出块速度。
 
   * 下一步的 **DagKnight** 协议将会带来更快的速度。
 
@@ -41,7 +43,7 @@ redirectTo: /zh/
 
 ::: info Solana 性能
 
-  * Solana 的生态最高新纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
+  * Solana 的生态最高纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
 
   * 相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
 
