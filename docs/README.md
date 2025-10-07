@@ -41,7 +41,7 @@ redirectTo: /zh/
 
 ::: info Solana 性能
 
-  * Solana 的性能最高新纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
+  * Solana 的生态最高新纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
 
   * 相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
 
