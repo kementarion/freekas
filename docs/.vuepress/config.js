@@ -70,10 +70,10 @@ export default defineUserConfig({
             text: '加密货币基础知识',
             link: '/crypto/'
           },
-          // {
-          //   text: '关于',
-          //   link: '/about/'
-          // }
+          {
+            text: '关于',
+            link: '/about/'
+          }
         ],
 
         sidebar: {
@@ -145,12 +145,12 @@ export default defineUserConfig({
               ]
             }
           ],
-          // '/about/': [
-          //   {
-          //     children: [
-          //     ]
-          //   }
-          // ]
+          '/about/': [
+            {
+              children: [
+              ]
+            }
+          ]
         }
       },
 
@@ -167,7 +167,7 @@ export default defineUserConfig({
           },
           {
             text: 'Q&A',
-            link: '/en/kas-discussion/'
+            link: '/en/qa/'
           },
         ],
 
@@ -180,7 +180,7 @@ export default defineUserConfig({
             }
           ],
 
-          '/en/kas-discussion/': [
+          '/en/qa/': [
             {
               children: [
                 'TrxInBlock_EN.md',
