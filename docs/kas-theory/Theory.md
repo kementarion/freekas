@@ -1,8 +1,8 @@
-# Kaspa 理论背景
+# Kaspa 核心论文
 
 ![DAG vs BlockChain](/kas/dag-vs-blockchain.jpg)
 
-DAG：有向无环图，可以理解为一个多维的区块链。
+DAG：**有向无环图**。可以理解为一个**多维的区块链**。
 
 在 Kaspa 官网首页 [https://kaspa.org/](https://kaspa.org/)，就可以看到 Kaspa DAG 的实时运行场景。
 
@@ -158,12 +158,20 @@ DAGKNIGHT 是比 GHOSTDAG 更进一步的协议，旨在解决 GHOSTDAG 的一�
 
 - DAGKNIGHT 白皮书的发布时间是2022年**10月31日**，与比特币的白皮书发布时间(2008年**10月31日**)是同一天。
 
-- 其他 Kaspa 相关的论文：[https://kaspa.org/publications/](https://kaspa.org/publications/)
-
 - 2025 年 9 月 状态更新：
   
   * DAGKNIGHT 的相关代码正在开发中，根据 Michael Sutton 的介绍，预计会跟 vProgs 一起打包发布。
 
 :::
 
----
+
+
+## 其他 Kaspa 相关的论文
+
+- [https://kaspa.org/publications/](https://kaspa.org/publications/)
+
+
+
+
+
+

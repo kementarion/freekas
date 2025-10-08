@@ -55,7 +55,7 @@ export default defineUserConfig({
             link: '/kas-timeline/'
           },
           {
-            text: 'Kaspa 理论',
+            text: 'Kaspa 论文',
             link: '/kas-theory/'
           },
           {
@@ -119,6 +119,7 @@ export default defineUserConfig({
                 'Basic-Knowledge.md',
                 'PoW-PoS.md',
                 'The-BlockChain-Trilemma.md',
+                'Node-And-Miner.md',
                 'BTC.md',
                 'ETH.md',
               ]

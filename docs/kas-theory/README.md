@@ -1,7 +1,7 @@
 
-## Kaspa 理论与背景
+## Kaspa 论文
 
-- [Kaspa 理论背景](./Theory.md)
+- [Kaspa 核心论文](./Theory.md)
 
 - [Kaspa 核心团队成员](./CoreTeam.md)
 
