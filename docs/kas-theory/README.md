@@ -1,5 +1,5 @@
 
-## Kaspa 论文
+## Kaspa 论文及核心团队
 
 - [Kaspa 核心论文](./Theory.md)
 

@@ -39,13 +39,13 @@ heroText: "Kaspa：比特币的真正继承者"
 
   * 下一步， **DagKnight** 协议上线，出块速度将再次提升。
 
-- 2025 年 10 月 5 号，主网压力测试实现 24 小时处理超 1.58 亿笔交易，TPS 在几百到几千之间，系统运行稳定流畅。
+- 2025 年 10 月 5 号，主网压力测试实现 **24 小时**完成 **1.58 亿**笔交易，TPS 在几百到几千之间，系统运行稳定流畅，主网转账秒到，没有延迟。
 
   * 详情：[2025-10-05 主网压力测试](/kas-timeline/2025.html#_2025-10-05-主网压力测试)
 
 ::: info Solana 性能
 
-  * Solana 的真实生态最高纪录：24 小时交易量 100M（1亿）笔交易，TPS 在 1200 左右。（2025 年）
+  * Solana 的真实环境最高纪录：24 小时交易量 **1 亿**笔交易(100M)，TPS 在 1200 左右。（2025 年）
 
   * 相关报道：[https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/](https://coincentral.com/solana-sees-highest-daily-transactions-since-2021-while-remittix-breaks-funding-records-is-this-bullish-for-both/)
 
