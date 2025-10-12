@@ -214,15 +214,7 @@
 
 ## 8. 如何运行一个 Kaspa 节点
 
-- How to run a kaspa node: [https://www.youtube.com/watch?v=f1ENlI2MS6E](https://www.youtube.com/watch?v=f1ENlI2MS6E)
-
-- How to make your kaspa node public: [https://www.youtube.com/watch?v=sQN1Wv7hWQY](https://www.youtube.com/watch?v=sQN1Wv7hWQY)
-
-- 信息来源：
-
-  * [https://x.com/OrangutanElder/status/1975699536216719390](https://x.com/OrangutanElder/status/1975699536216719390)
-
-  * [https://x.com/coderofstuff_/status/1975738186874900543](https://x.com/coderofstuff_/status/1975738186874900543)
+- kas.fyi 介绍如何运行 Kaspa 节点的文档：[https://docs.kas.fyi/guides/new-to-kaspa/run-a-kaspa-node](https://docs.kas.fyi/guides/new-to-kaspa/run-a-kaspa-node)
 
 
 
