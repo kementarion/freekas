@@ -5,28 +5,69 @@
 - [https://kaspa.org/](https://kaspa.org/)
 
 
+## 官方 Discord
+
+- [https://discord.gg/kaspa](https://discord.gg/kaspa)
+
+
+## 核心开发 Telegram
+
+- [https://t.me/kasparnd](https://t.me/kasparnd)
+
+
+## 官方 Telegram
+
+- [https://t.me/kaspaenglish](https://t.me/kaspaenglish)
+
+- [https://t.me/kaspa_chinese](https://t.me/kaspa_chinese)
+
+
 ## 网络状态及区块浏览器
+
+::: info
+
+可以查看每天交易量、交易费、地址状态等等。
+
+:::
 
 - [https://kas.fyi/](https://kas.fyi/)
 
 - [https://explorer.kaspa.org/](https://explorer.kaspa.org/)
 
-
-## 网络状态分析
-
 - [https://www.kaspalytics.com/](https://www.kaspalytics.com/)
 
-- 可以查看每天交易量、交易费、地址状态等等。
 
 ## 官方知识问答网站
 
 - [https://qa.kas.pa/](https://qa.kas.pa/)
 
-- 这是核心开发团队创建的 Kaspa 知识问答网站。是核心团队与普通用户沟通的桥梁之一。背景介绍：[https://x.com/OriNewman/status/1973363007305433464](https://x.com/OriNewman/status/1973363007305433464)
+::: tip
+
+- 这是核心开发团队创建的 Kaspa 知识问答网站。是核心团队与普通用户沟通的桥梁之一。
+
+- 背景介绍：[https://x.com/OriNewman/status/1973363007305433464](https://x.com/OriNewman/status/1973363007305433464)
+
+:::
+
+## 钱包
+
+::: warning
+
+请自行研究、分辨。**注意安全，注意钓鱼网站。**
+
+:::
+
+### 手机钱包
+
+- [https://kaspium.io/](https://kaspium.io/)
 
 
+### 网页钱包
 
-## Kasware 钱包
+- [https://kaspa-ng.org/](https://kaspa-ng.org/)
+
+
+### Kasware 钱包
 
 - [https://www.kasware.xyz/](https://www.kasware.xyz/)
 
@@ -34,16 +75,13 @@
 
 
 
-## 其他常用钱包
+### 其他钱包
 
-- 手机钱包：[https://kaspium.io/](https://kaspium.io/)
+- [https://kastle.cc/](https://kastle.cc/)
 
-- 网页钱包：[https://kaspa-ng.org/](https://kaspa-ng.org/)
+- [https://kaskeeper.vercel.app/](https://kaskeeper.vercel.app/)
 
-
-## 官方 Discord
-
-- [https://discord.gg/kaspa](https://discord.gg/kaspa)
+  * KEF 基金会支持开发
 
 
 
