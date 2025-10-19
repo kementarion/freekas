@@ -1,10 +1,14 @@
-# Kaspa 核心论文
+# Kaspa 理论
 
 ![DAG vs BlockChain](/kas/dag-vs-blockchain.jpg)
 
-DAG：**有向无环图**。可以理解为一个**多维的区块链**。
+::: tip 什么是 DAG ？
 
-在 Kaspa 官网首页 [https://kaspa.org/](https://kaspa.org/)，就可以看到 Kaspa DAG 的实时运行场景。
+- DAG：**有向无环图**。可以理解为一个**多维的区块链**。
+
+:::
+
+在 Kaspa 官网首页 [https://kaspa.org/](https://kaspa.org/)，就可以看到 Kaspa DAG 的实时运行场景：
 
 ![kaspa.org](/kas/kaspa.org.png)
 

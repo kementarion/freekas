@@ -8,6 +8,8 @@ Kaspa 目前每秒 10 个区块。那么，每个区块可以承载多少条交�
 
 :::
 
+## 问题回答
+
 - Kaspa 核心开发 Ori Newman 给了一个详细的讲解：[https://x.com/OriNewman/status/1974829990882553925](https://x.com/OriNewman/status/1974829990882553925)
 
 - 重要概念： **mass**，是区块可以承载的数据的**单位**，根据 KIP-9 和 KIP-13 标准，Kaspa 每个区块的 mass 上限为 **500,000** **mass**
@@ -40,6 +42,15 @@ Kaspa 目前每秒 10 个区块。那么，每个区块可以承载多少条交�
 
 :::
 
+
+## 实际场景
+
+真实的交易场景更加复杂，可能会有更多的交易类型。在 kas.fyi 网站上，可以查看每笔交易的 **Mass** 的值，如：
+
+<img :src="$withBase('/kas/kaspa-trx-mass.png')" />
+
+
+- [https://kas.fyi/transaction/3c9039d4038998c07d4bb10e34e8c627f18c173e8116fcdd2263f881b957b87d](https://kas.fyi/transaction/3c9039d4038998c07d4bb10e34e8c627f18c173e8116fcdd2263f881b957b87d)
 
 
 

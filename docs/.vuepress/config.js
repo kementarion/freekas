@@ -8,7 +8,7 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'Kaspa 知识库',
+      title: 'Kaspa 百科文档',
       description: ' ',
     },
     '/en/': {
@@ -52,19 +52,23 @@ export default defineUserConfig({
           },
           {
             text: 'Kaspa 纪事',
-            link: '/kas-timeline/'
+            link: '/timeline/'
           },
           {
-            text: 'Kaspa 论文',
-            link: '/kas-theory/'
+            text: 'Kaspa 理论',
+            link: '/theory/'
+          },
+          {
+            text: 'Kaspa 团队',
+            link: '/team/'
           },
           {
             text: 'Kaspa 问题',
-            link: '/kas-discussion/'
+            link: '/qa/'
           },
           {
             text: 'Kaspa 资源',
-            link: '/kas-resource/'
+            link: '/resource/'
           },
           {
             text: '加密货币基础知识',
@@ -78,7 +82,7 @@ export default defineUserConfig({
 
         sidebar: {
 
-          '/kas-timeline/': [
+          '/timeline/': [
             {
               children: [
                 '2021-2024.md',
@@ -87,17 +91,23 @@ export default defineUserConfig({
             }
           ],
 
-          '/kas-theory/': [
+          '/theory/': [
             {
               children: [
-                'Theory.md',
-                'CoreTeam.md',
-                'AboutYonatan.md',
+                'README.md',
               ]
             }
           ],
 
-          '/kas-discussion/': [
+          '/team/': [
+            {
+              children: [
+                'README.md',
+              ]
+            }
+          ],
+
+          '/qa/': [
             {
               children: [
                 'Fee.md',
@@ -106,13 +116,14 @@ export default defineUserConfig({
               ]
             }
           ],
-          '/kas-resource/': [
+          '/resource/': [
             {
               children: [
                 'README.md'
               ]
             }
           ],
+
           '/crypto/': [
             {
               children: [
@@ -125,27 +136,8 @@ export default defineUserConfig({
               ]
             }
           ],
-          '/the-blockchain-trilemma/': [
-            {
-              children: [
-                'README.md'
-              ]
-            }
-          ],
-          '/btc/': [
-            {
-              children: [
-                'README.md'
-              ]
-            }
-          ],
-          '/eth/': [
-            {
-              children: [
-                'README.md'
-              ]
-            }
-          ],
+
+
           '/about/': [
             {
               children: [
