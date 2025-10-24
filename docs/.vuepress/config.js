@@ -51,8 +51,8 @@ export default defineUserConfig({
             link: '/'
           },
           {
-            text: 'Kaspa 纪事',
-            link: '/timeline/'
+            text: 'Kaspa 简介',
+            link: '/summary/'
           },
           {
             text: 'Kaspa 理论',
@@ -63,13 +63,14 @@ export default defineUserConfig({
             link: '/team/'
           },
           {
+            text: 'Kaspa 纪事',
+            link: '/timeline/'
+          },
+          {
             text: 'Kaspa 问题',
             link: '/qa/'
           },
-          {
-            text: 'Kaspa 资源',
-            link: '/resource/'
-          },
+
           {
             text: '加密货币基础知识',
             link: '/crypto/'
@@ -81,6 +82,14 @@ export default defineUserConfig({
         ],
 
         sidebar: {
+
+          '/summary/': [
+            {
+              children: [
+                'README.md',
+              ]
+            }
+          ],
 
           '/timeline/': [
             {
