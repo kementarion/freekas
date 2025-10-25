@@ -14,19 +14,21 @@
 
 - 创始人，首席科学家。理论奠基人。详细介绍可在 [Kaspa 理论](../theory/README.md) 查看。
 
-- [https://x.com/hashdag](https://x.com/hashdag)
+- 推特：[https://x.com/hashdag](https://x.com/hashdag)
 
-- [https://hashdag.medium.com/](https://hashdag.medium.com/)
+- 博客：[https://hashdag.medium.com/](https://hashdag.medium.com/)
 
 
 ## 2. Michael Sutton
 
 - 首席程序员。DagKnight 论文合作者。
 
-- [https://x.com/michaelsuttonil](https://x.com/michaelsuttonil)
+- 推特：[https://x.com/michaelsuttonil](https://x.com/michaelsuttonil)
 
 
 ## 3. Ori Newman
+
+- 最早参与项目的核心开发之一。
 
 - 推特：[https://x.com/OriNewman](https://x.com/OriNewman)
 
@@ -42,21 +44,38 @@
 
 视频如下：
 
-- [https://www.youtube.com/watch?v=zRoOEu3xHtc](https://www.youtube.com/watch?v=zRoOEu3xHtc)
+> - [https://www.youtube.com/watch?v=zRoOEu3xHtc](https://www.youtube.com/watch?v=zRoOEu3xHtc)
+> 
+> - [https://x.com/xximpod/status/1981722377521156428](https://x.com/xximpod/status/1981722377521156428)
 
-- [https://x.com/xximpod/status/1981722377521156428](https://x.com/xximpod/status/1981722377521156428)
-
-- 文本总结：[2025-10-24 XXIM 采访 Ori Newman](../team/#附-2025-10-24-xxim-采访-ori-newman)
+文字总结：[2025-10-24 XXIM 采访 Ori Newman](../team/#附-2025-10-24-xxim-采访-ori-newman)
 
 :::
 
 ## 4. 其他核心团队成员
 
-::: tip
+根据相关统计，2025 年，相关的开发人员大概有上百名，其中核心协议相关的开发有大概 64 位。
 
-因为信息有限，很多只是知道他们的 X 账号。还有很多人连 X 账号也不知道。如果有发现，都会继续在这里更新。
+因为信息所限，很多只是知道他们的 X 账号，甚至连 X 账号也不知道。如果有发现，都会继续在这里更新。
 
 
+::: tip 信息来源：
+
+- [https://x.com/DailyKaspa/status/1981330777913594111](https://x.com/DailyKaspa/status/1981330777913594111)
+
+> 在过去的 12 个月中，估计有 100 多名开发人员通过不同的项目为 Kaspa 生态系统做出了贡献。
+> 
+> 根据我们的审查，粗略的分类如下：
+> 
+> - 核心协议和节点（Go 和 Rust 实现，KIP）：约 64 名开发人员
+> 
+> - 钱包（Kaspa NG、KDX、Kaspium、KaspaCom 等）: ~25 开发者
+> 
+> - 浏览器和开发工具（区块浏览器、分析工具）：约 12 名开发人员
+> 
+> - Layer-2 项目（例如 Kasplex、Igra Labs）：约 6 名开发人员
+> 
+> 这是我们根据去年的公开提交活动和公开数据进行的估计。
 :::
 
 
@@ -108,13 +127,14 @@
 
 ## 附：创始人 Yonatan 的一些趣事
 
-### 1. Yonatan 的早期论文被多个项目引用
+### (1). Yonatan 的早期论文被多个项目创始人提到
 
-![alt text](/kas/gost-in-eth.png)
+<br />
+<img :src="$withBase('/kas/gost-in-eth.png')" />
 
 
 
-### 2. XRP 白皮书中提到 Yonatan 的 GHOST 协议
+### (2). XRP 白皮书中提到 Yonatan 的 GHOST 协议
 
 - [https://x.com/captaindwork/status/1946455870381928708](https://x.com/captaindwork/status/1946455870381928708)
 
@@ -122,7 +142,7 @@
 
 
 
-### 3. 2013 年 Aviv 与 Yonatan 在比特币社区讨论 GHOST 相关技术
+### (3). 2013 年 Aviv 与 Yonatan 在比特币社区讨论 GHOST 相关技术
 
 - [https://bitcointalk.org/index.php?topic=359582.0](https://bitcointalk.org/index.php?topic=359582.0)
 
@@ -131,7 +151,7 @@
 - 网友的讨论：[https://x.com/brt2412/status/1974189975089426710](https://x.com/brt2412/status/1974189975089426710)
 
 
-### 4. Yonatan 的生日
+### (4). Yonatan 的生日
 
 Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特币的“中本聪”也是这一天生日。
 
@@ -143,29 +163,7 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 
 - [https://x.com/christi61026749/status/1878527018054168621](https://x.com/christi61026749/status/1878527018054168621)
 
-
-### 5. Yonatan 自称是中本聪的 twitter 回帖（估计是开玩笑）
-
-- [https://x.com/hashdag/status/1358530514483896326](https://x.com/hashdag/status/1358530514483896326)
-
-![alt text](/kas/yonantan-x-santoshi.png)
-
-
-### 6. Yonatan 自称是中本聪的另一个回帖（估计也是开玩笑）
-
-- [https://x.com/hashdag/status/1382359025560518657](https://x.com/hashdag/status/1382359025560518657)
-
-![alt text](/kas/yonatan-x-santoshi2.png)
-
-::: tip 注：
-
-- Yonatan 是一位非常谦逊低调、温和儒雅的人。很难想像他也会开这种​​打趣​​的玩笑。或者，他是认真的？! 
-
-- 无论如何，他所创立的 Kaspa **保留了比特币的优点，修复了比特币的缺陷**，是真正的、下一代的比特币。
-
-:::
-
-### 7. Yonatan 的一次采访(2024年5月)
+### (5). Yonatan 在采访中否认自己是中本聪(2024年5月)
 
 - [https://hackernoon.com/interview-with-dr-yonatan-sompolinsky-of-kaspa](https://hackernoon.com/interview-with-dr-yonatan-sompolinsky-of-kaspa)
 
@@ -185,6 +183,56 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 我可以告诉你，但那样我就得灭口了。说真的，没人知道，而且我认为搞清这一切并不重要。中本聪的匿名性是比特币诞生以及去中心化运动的核心。此外，发现中本聪身份的价值被高估了；就拿我来说，我在加密技术和无需许可的共识方面所知道的远比中本聪多；她（注：原文使用了“she”）已经多年没参加过行业会议了。
 
 :::
+
+
+### (6). Yonatan 的打趣回帖
+
+::: tip 注：
+
+- Yonatan 是一位非常谦逊低调、温和儒雅的人。很难想像他也会开这种​​打趣​​的玩笑。或者，他是认真的？! 
+
+- 无论如何，他所创立的 Kaspa **保留了比特币的优点，修复了比特币的缺陷**，是真正的、下一代的比特币。
+
+:::
+
+- [https://x.com/hashdag/status/1358530514483896326](https://x.com/hashdag/status/1358530514483896326)
+
+![alt text](/kas/yonantan-x-santoshi.png)
+
+
+- [https://x.com/hashdag/status/1382359025560518657](https://x.com/hashdag/status/1382359025560518657)
+
+![alt text](/kas/yonatan-x-santoshi2.png)
+
+
+### (7). ZCash 创始人 Zooko Wilcox 谈论 Yonatan 的 GHOST 技术
+
+::: info
+
+根据很多信息来看，Yonatan 与 ZCash 创始人 Zooko 有不错的私人关系。
+
+:::
+
+
+
+<img :src="$withBase('/kas/zcash-zooko.png')" />
+
+<img :src="$withBase('/kas/zcash-yonatan.png')" />
+
+::: info
+
+下图是 Kaspa 的测试网上线时，ZCash 的创始团队成员发给 Yonatan 的祝贺信息。
+
+:::
+
+<img :src="$withBase('/kas/zcash-founding-scientist.png')" />
+
+<br />
+<br />
+
+### (8). Yonatan 的 GHOST 理论被很多加密项目引用
+
+- 详情：[https://x.com/plzsats/status/1626607379331653632](https://x.com/plzsats/status/1626607379331653632)
 
 
 ## 附：2025-10-24 XXIM 采访 Ori Newman
