@@ -10,7 +10,7 @@ npm run docs:build
 
 ## 部署
 
-- 部署在：[https://freekas.com/](https://freekas.com/)
+- 部署在：[https://buykas.com/](https://buykas.com/)
 
 
 ## 软件

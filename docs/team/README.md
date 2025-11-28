@@ -47,7 +47,7 @@ Yonatan Sompolinsky 是**加密行业的元老级的研究人员**，是 Kaspa �
 :::
 
 
-### (2). GHOST 协议被以太坊白使用
+### (2). GHOST 协议被以太坊使用
 
 - 以太坊白皮书：[https://ethereum.org/whitepaper/](https://ethereum.org/whitepaper/)
 
