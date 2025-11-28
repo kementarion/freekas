@@ -18,7 +18,7 @@
 
 Kaspa 的故事始于一位杰出的计算机科学家和密码学家——**Yonatan Sompolinsky**。
 
-- **Yonathan Sompolinsky**：他是整个项目的灵魂人物。在哈佛大学攻读博士学位时，他的导师是著名的密码学家和数学家 **Yossi Gil**。更重要的是，他曾在 **Aviv Zohar** 教授（耶路撒冷希伯来大学）的指导下进行研究。早在 2013 年，Yonatan 就在其博客上发表了一篇题为 **《Secure High Rate Transaction Processing with Bitcoin》** 的帖子，其中已经包含了 **GHOST** 协议的核心思想。这个协议后来被以太坊采纳，用于解决比特币最长链规则在高速出块时安全性下降的问题。
+- **Yonathan Sompolinsky**：他是整个项目创始人和理论奠基人。他曾在耶路撒冷希伯来大学攻读博士学位并在 **Aviv Zohar** 教授的指导下进行研究。早在 2013 年，Yonatan 就在其博客上发表了一篇题为 **《Secure High Rate Transaction Processing with Bitcoin》** 的帖子，其中已经包含了 **GHOST** 协议的核心思想。这个协议后来被以太坊采纳，用于解决比特币最长链规则在高速出块时安全性下降的问题。
 
 - **核心问题**：Yonatan 的研究始终围绕一个核心问题：**如何在不牺牲安全性和去中心化的前提下，极大地提升区块链的吞吐量（TPS）和缩短确认时间？**
     - 比特币：安全但慢（~7 TPS，确认时间长）。

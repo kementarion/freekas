@@ -11,11 +11,11 @@ export default defineUserConfig({
       title: 'Kaspa 百科文档',
       description: ' ',
     },
-    '/en/': {
-      lang: 'en-US',
-      title: 'Kaspa Knowledge Base',
-      description: ' ',
-    }
+    // '/en/': {
+    //   lang: 'en-US',
+    //   title: 'Kaspa Knowledge Base',
+    //   description: ' ',
+    // }
   },
 
   
@@ -67,7 +67,7 @@ export default defineUserConfig({
             link: '/timeline/'
           },
           {
-            text: 'Kaspa 问题',
+            text: 'Kaspa 话题',
             link: '/qa/'
           },
 
@@ -122,6 +122,7 @@ export default defineUserConfig({
                 'Fee.md',
                 'OldTrxHistory.md',
                 'TrxInBlock.md',
+                'OriNewmanInterviewByXXIM.md',
               ]
             }
           ],

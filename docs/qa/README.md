@@ -9,3 +9,5 @@
 
 - [3. 一个区块可承载多少笔交易？](./TrxInBlock.md)
 
+
+- [4. XXIM 采访 Kaspa 核心开发 Ori Newman, 讲述 Kaspa 初期的故事。](./OriNewmanInterviewByXXIM.md)
