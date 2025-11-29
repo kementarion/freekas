@@ -159,39 +159,42 @@ export default defineUserConfig({
 
 
 
-      '/en/': {
-        selectLanguageName: 'English',
-        selectLanguageText: '切换语言',
-        lastUpdatedText: 'Last Update',
-        navbar: [
-          {
-            text: 'Home',
-            link: '/en/'
-          },
-          {
-            text: 'Q&A',
-            link: '/en/qa/'
-          },
-        ],
+      // '/en/': {
+      //   selectLanguageName: 'English',
+      //   selectLanguageText: '切换语言',
+      //   lastUpdatedText: 'Last Update',
+      //   navbar: [
+      //     {
+      //       text: 'Home',
+      //       link: '/en/'
+      //     },
+      //     {
+      //       text: 'Q&A',
+      //       link: '/en/qa/'
+      //     },
+      //   ],
 
-        sidebar: {
+      //   sidebar: {
 
-          '/en/': [
-            {
-              children: [
-              ]
-            }
-          ],
+      //     '/en/': [
+      //       {
+      //         children: [
+      //         ]
+      //       }
+      //     ],
 
-          '/en/qa/': [
-            {
-              children: [
-                'TrxInBlock_EN.md',
-              ]
-            }
-          ],
-      },
-    }},
+      //     '/en/qa/': [
+      //       {
+      //         children: [
+      //           'TrxInBlock_EN.md',
+      //         ]
+      //       }
+      //     ],
+      // },
+    // }
+
+    
+    },
 
 
 
