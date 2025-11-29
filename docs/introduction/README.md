@@ -150,6 +150,11 @@ Kaspa 这个名字，来源于阿拉米语，是"银"和"钱"的意思。
 
 - [https://t.me/kasparnd](https://t.me/kasparnd)
 
+::: info
+
+群组全部对外开放，任何人都可以去围观，但只有内部开发人员才可以发言。
+
+:::
 
 ### (4). 官方 Telegram
 
