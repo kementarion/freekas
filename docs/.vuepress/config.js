@@ -52,11 +52,11 @@ export default defineUserConfig({
           },
           {
             text: 'Kaspa 简介',
-            link: '/summary/'
+            link: '/introduction/'
           },
           {
             text: 'Kaspa 理论',
-            link: '/theory/'
+            link: '/research/'
           },
           {
             text: 'Kaspa 团队',
@@ -83,7 +83,7 @@ export default defineUserConfig({
 
         sidebar: {
 
-          '/summary/': [
+          '/introduction/': [
             {
               children: [
                 'README.md',
@@ -100,7 +100,7 @@ export default defineUserConfig({
             }
           ],
 
-          '/theory/': [
+          '/research/': [
             {
               children: [
                 'README.md',
@@ -119,10 +119,10 @@ export default defineUserConfig({
           '/topic/': [
             {
               children: [
-                'Fee.md',
-                'OldTrxHistory.md',
-                'TrxInBlock.md',
-                'OriNewmanInterviewByXXIM.md',
+                '1.Fee.md',
+                '2.OldTrxHistory.md',
+                '3.TrxInBlock.md',
+                '4.OriNewmanInterviewByXXIM.md',
               ]
             }
           ],

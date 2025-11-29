@@ -185,7 +185,7 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 > 
 > - [https://x.com/xximpod/status/1981722377521156428](https://x.com/xximpod/status/1981722377521156428)
 
-文字总结：[2025-10-24 XXIM 采访 Ori Newman](../topic/OriNewmanInterviewByXXIM.md)
+文字总结：[2025-10-24 XXIM 采访 Ori Newman](../topic/4.OriNewmanInterviewByXXIM.md)
 
 :::
 
