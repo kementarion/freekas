@@ -68,7 +68,7 @@ export default defineUserConfig({
           },
           {
             text: 'Kaspa 话题',
-            link: '/qa/'
+            link: '/topic/'
           },
 
           {
@@ -116,7 +116,7 @@ export default defineUserConfig({
             }
           ],
 
-          '/qa/': [
+          '/topic/': [
             {
               children: [
                 'Fee.md',

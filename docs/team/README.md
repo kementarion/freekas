@@ -21,15 +21,15 @@
 
 ### (1). Yonatan 基本介绍
 
-::: info Yonatan Sompolinsky
+::: info Yonatan Sompolinsky 个人简介
 
-Yonatan Sompolinsky 是**加密行业的元老级的研究人员**，是 Kaspa 的创始人和理论奠基人。他博士毕业于耶路撒冷希伯来大学，并曾在哈佛大学进行博士后研究。
+Yonatan Sompolinsky 是一位非常资深的区块链研究员和密码学专家，是 Kaspa 的创始人和理论奠基人。他博士毕业于耶路撒冷希伯来大学，并曾在哈佛大学从事博士后研究（研究方向为交易排序和 MEV）。
 
 2013 年，Yonatan 与他的导师 Aviv Zohar 一起提出了 GHOST（贪婪最重观察子树）协议。**GHOST 协议** 通过引入一种更有效的方式来达成共识，解决了传统区块链共识算法的可扩展性限制。它在各种区块链系统的开发中发挥了关键作用，特别是那些使用有向无环图（DAG）结构的系统。
 
 2016 年，Yonatan 积极参与探索和推进基于 DAG 的系统的共识算法。他的研究重点是寻找有效的方法来排序交易并防止 DAG 协议中的冲突，这导致他发表了 SPECTRE（工作量证明事件序列化）共识算法，该算法由 Aviv Zohar 共同撰写。在这些论文发布后，加密货币和区块链社区迅速对 Yonatan 的工作产生了兴趣，并开始要求他推出自己的项目。
 
-2021 Yonatan 创立了 KASPA，这是一个在工作量证明系统上运行并结合了 PHANTOM/GHOSTDAG 协议的 Layer 1 区块链，使用了有向无环图（DAG）。
+2021 Yonatan 创立了 KASPA，这是一个在工作量证明系统上运行并结合了 GHOSTDAG 协议的 Layer 1 区块链，使用了有向无环图（DAG）。
 
 参考信息：[https://iq.wiki/zh/wiki/yonatan-sompolonsky](https://iq.wiki/zh/wiki/yonatan-sompolonsky)
 
@@ -120,7 +120,17 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 
 - [https://x.com/christi61026749/status/1878527018054168621](https://x.com/christi61026749/status/1878527018054168621)
 
-### (5). Yonatan 在采访中否认自己是中本聪(2024年5月)
+其他信息：
+
+- [https://zhuanlan.zhihu.com/p/689513779](https://zhuanlan.zhihu.com/p/689513779)
+
+- [https://x.com/hashdag/status/1358530514483896326](https://x.com/hashdag/status/1358530514483896326)
+
+- [https://x.com/hashdag/status/1382359025560518657](https://x.com/hashdag/status/1382359025560518657)
+
+
+
+### (9). Yonatan 在采访中否认自己是中本聪(2024年5月)
 
 - [https://hackernoon.com/interview-with-dr-yonatan-sompolinsky-of-kaspa](https://hackernoon.com/interview-with-dr-yonatan-sompolinsky-of-kaspa)
 
@@ -137,33 +147,9 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 
 **问：你知道中本聪是谁吗？**
 
-我可以告诉你，但那样我就得灭口了。说真的，没人知道，而且我认为搞清这一切并不重要。中本聪的匿名性是比特币诞生以及去中心化运动的核心。此外，发现中本聪身份的价值被高估了；就拿我来说，我在加密技术和无需许可的共识方面所知道的远比中本聪多；她（注：原文使用了“she”）已经多年没参加过行业会议了。
+我可以告诉你，但那样我就得灭口了。说真的，没人知道，而且我认为搞清这一切并不重要。中本聪的匿名性是比特币诞生以及去中心化运动的核心。此外，发现中本聪身份的价值被高估了；就拿我来说，我在加密技术和无需许可的共识方面所知道的远比中本聪多；她（注：原文使用了"she"）已经多年没参加过行业会议了。
 
 :::
-
-
-### (6). Yonatan 的打趣回帖
-
-::: tip 注：
-
-- Yonatan 是一位非常谦逊低调、温和儒雅的人。很难想像他也会开这种​​打趣​​的玩笑。或者，他是认真的？! 
-
-- 无论如何，他所创立的 Kaspa **保留了比特币的优点，修复了比特币的缺陷**，是真正的、下一代的比特币。
-
-:::
-
-![alt text](/kas/yonantan-x-santoshi.png)
-
-
-![alt text](/kas/yonatan-x-santoshi2.png)
-
-
-::: info 源链接：
-- [https://x.com/hashdag/status/1358530514483896326](https://x.com/hashdag/status/1358530514483896326)
-- [https://x.com/hashdag/status/1382359025560518657](https://x.com/hashdag/status/1382359025560518657)
-:::
-
-
 
 
 
@@ -199,7 +185,7 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 > 
 > - [https://x.com/xximpod/status/1981722377521156428](https://x.com/xximpod/status/1981722377521156428)
 
-文字总结：[2025-10-24 XXIM 采访 Ori Newman](../qa/OriNewmanInterviewByXXIM.md)
+文字总结：[2025-10-24 XXIM 采访 Ori Newman](../topic/OriNewmanInterviewByXXIM.md)
 
 :::
 
@@ -285,15 +271,15 @@ Yonatan 偶然透露出他的生日是 4 月 5 号。巧合的是，创立比特
 
 - [https://x.com/kaspador_](https://x.com/kaspador_)
 
-    * 创建了 [kas.fyi](https://kas.fyi/), kasplex, kasware, 等
+    * 参与创建了 [kas.fyi](https://kas.fyi/), kasplex, kasware, 等
 
 - [https://x.com/supertypo_kas](https://x.com/supertypo_kas)
 
-    * 创建了 [https://kaspa.stream/](https://kaspa.stream/)
+    * 区块浏览器： [https://kaspa.stream/](https://kaspa.stream/)
 
 - [https://x.com/IzioDev](https://x.com/IzioDev)
 
-    * 创建了 [https://kasia.fyi/](https://kasia.fyi/)
+    * 去中心化的聊天工具 - Kaisa： [https://kasia.fyi/](https://kasia.fyi/)
 
     * 相关采访：[https://x.com/xximpod/status/1945101933343351262](https://x.com/xximpod/status/1945101933343351262)
 

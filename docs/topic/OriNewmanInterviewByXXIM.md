@@ -1,4 +1,4 @@
-# 4. XXIM 采访 Ori Newman (2025-10-24)
+# 4. XXIM 采访 Ori Newman
 
 
 
@@ -7,6 +7,8 @@
 - [https://x.com/xximpod/status/1981722377521156428](https://x.com/xximpod/status/1981722377521156428)
 
 - [https://www.youtube.com/watch?v=zRoOEu3xHtc](https://www.youtube.com/watch?v=zRoOEu3xHtc)
+
+- 采访发生于 2025 年 10 月 24 日。
 
 :::
 
